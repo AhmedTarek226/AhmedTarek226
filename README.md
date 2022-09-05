@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ahmed Tarek
-- 👀 I’m interested in mobile app development
-- 🌱 I’m currently learning flutter,react native, reactjs and node js.
+- 👀 I’m interested in front end development
+- 🌱 I’m currently wo flutter,react native,reactjs.
 - 📫 How to reach me (ahmedfcis2019@gmail.com)
 
 <!---
